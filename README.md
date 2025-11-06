@@ -1,2 +1,2 @@
 # dev-note
-This is my Dev-Note
+This is my development note repository
